@@ -1,7 +1,3 @@
-% Teste de slides com Rmd e pandoc
-% Fernando de Pol Mayer, ESALQ/USP
-% 20 de Julho, 2013
-
 # Primeiro título
 
 ## Primeiro sub-título
@@ -10,7 +6,7 @@ O texto vao mostrar como usar markdown e códigos do _R_ ao mesmo
 tempo. Um exemplo está abaixo
 
 
-```r
+```python
 2 + 2
 ```
 
@@ -31,8 +27,8 @@ rnorm(10)
 ```
 
 ```
-##  [1]  0.8486 -0.6992 -0.4181 -0.4735  1.0392 -1.8379 -0.2728 -0.2625
-##  [9]  0.1525 -0.6199
+##  [1] -1.5969 -0.8227 -1.1135  1.7099  0.6579  1.2286 -1.7007 -1.2937
+##  [9] -0.3787  1.7358
 ```
 
 
